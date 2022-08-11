@@ -37,6 +37,6 @@ Actual result:
 # My config
 
 * Windows 10 Enterprise N 19044.1826
-* git version 2.37.1.windows.1
+* git version 2.37.1.windows.1 (installed from https://gitforwindows.org/)
 * git-lfs/3.2.0 (GitHub; windows amd64; go 1.18.2)
-* Sublime Merge Build 2074
+* Sublime Merge Build 2074. It is configured to system Git binaries.
