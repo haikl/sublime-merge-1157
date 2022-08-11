@@ -3,7 +3,8 @@ This is a demo repo for reproducing https://github.com/sublimehq/sublime_merge/i
 # Steps to reproduce
 
 Option 1:
-* open Sublime Merge
+* have a clean repo
+* open Sublime Merge (should show no changes and an empty summary page)
 * in your favorite editor, create a new file `lfs/new.lfs`, put some text in it, and save it
 * go to Sublime Merge, and go to the Untracked Files section
 
@@ -17,7 +18,8 @@ Actual result:
 * in Sublime Merge: close SM. The Window will vanish, but the process is still around (check Task Manager) and SM will not start again
 
 Option 2:
-* open Sublime Merge
+* have a clean repo
+* open Sublime Merge (should show no changes and an empty summary page)
 * in your favorite editor, edit the file `lfs/test.lfs`, and save it
 * go to Sublime Merge, and go to the current changes
 
