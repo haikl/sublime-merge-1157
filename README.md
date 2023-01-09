@@ -1,3 +1,5 @@
+# Build 2081 fixes the issue. Thanks, Sublime Team!
+
 This is a demo repo for reproducing https://github.com/sublimehq/sublime_merge/issues/1157
 
 # Steps to reproduce
